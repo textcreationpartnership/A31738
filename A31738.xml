@@ -1,0 +1,255 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Character of Mr. Blaw's book, entitutled, Suadela victrix in a letter to a comrade.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31738</idno>
+            <idno type="STC">Wing C2021A</idno>
+            <idno type="STC">ESTC R20295</idno>
+            <idno type="EEBO-CITATION">11770347</idno>
+            <idno type="OCLC">ocm 11770347</idno>
+            <idno type="VID">48844</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31738)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48844)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 20:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Character of Mr. Blaw's book, entitutled, Suadela victrix in a letter to a comrade.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh? :</pubPlace>
+                  <date>1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of original in Harvard University Libraries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Blaw, --  Mr. --  Suadela vitrix.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="book_review">
+            <pb facs="tcp:48844:1"/>
+            <pb n="1" facs="tcp:48844:1"/>
+            <head>A CHARACTER OF M<hi rend="sup">R.</hi> BLAWS BOOK ENTITULED SUADELA VICTRIX.</head>
+            <head type="sub">In a LETTER to a COMRADE.</head>
+            <opener>
+               <salute>SIR</salute>
+            </opener>
+            <p>YOU deſired me to be at the Pains, to read over Mr. <hi>Blaw</hi>'s <hi>School-Orations,</hi> to ſee if they might be profitable to Others, or worth the while. 'Tis true I am unwilling to refuſe your Requeſts, which are all Commands to me; but, I proteſt, be<g ref="char:EOLhyphen"/>fore I had read them half over, I began to ſuſpect, That you had im<g ref="char:EOLhyphen"/>pos'd the Task, as a Teſt of Friendſhip, or as a Pennance to expiate ſome hainous Offence: For I'm ſure, hardly any thing but the Author's <hi>Ferula,</hi> could oblige one to read them to the end.</p>
+            <p>It is true had I never heard of the Author, or ſeen other of his Works before, the ſwelling Title would have raiſed my expectation: but inſtead of that, it raiſed my Stomach only. <hi>Suadela victrix,</hi> quoth he,
+<q>
+                  <bibl>Hor:</bibl>
+                  <l>Quid dignum tanto feret hic promiſſor hiatu?</l>
+                  <l>After ſuch a daring Brag,</l>
+                  <l>What wit ſo brisk as not to Fag?</l>
+               </q>
+            </p>
+            <p>But it is not the firſt time he has amuſed his Readers with the like bombaſt. To entitule a ridiculous Vocabulary <hi>Fraus Eluſa,</hi> or <hi>Tenebrae depulſae,</hi> is beyond a Superlative, but indeed it might rightly be called <hi>Fraus Eluſa:</hi> For whereas before he cheated the Liedges without being ſo much known, he then avowedly <hi>Printed</hi> himſelf a <hi>Fool.</hi> Now after the ridicule, he met with for that Title, one would have expected, he would have learn'd more Modeſty; but now ſeing he hath not, the <hi>Poet</hi> privilegeth us to ridicule him.</p>
+            <pb n="2" facs="tcp:48844:2" rendition="simple:additions"/>
+            <q>
+               <bibl>Hor.</bibl> 
+               <l>Ridetur, Chorda qui ſemper oberrat eadem.</l>
+               <l>That Fidler as a Fool we mock,</l>
+               <l>Who ſtill goes wrong in the ſame ſtroke.</l>
+            </q>
+            <p>But you'l ſay, he's a ſilly Gardiner that lightlies his own Leeks; 'tis true indeed, but yet <hi>Good Wine needs no Buſh.</hi> The ſame <hi>Poet</hi> has taught us, what Judgment to make.</p>
+            <q>
+               <l>— Ubi plenius aequo</l>
+               <l>Laudat venaleis qui vult extrudere merces.</l>
+               <l>When Pedlers praiſe their Trump'ries, more than's meet,</l>
+               <l>The Prudent Merchant ſhould ſuſpect a Cheat.</l>
+            </q>
+            <p>'Tis one of the Author's Predominants, to cauſe his Reader gape wide, and then only to <hi>Blow</hi> in his Mouth: So in his Prologue to this <hi>Suadela Victrix,</hi> giving his Readers an Account and Character of the following Orations, he aſcends gradually, and as if he were at an Auction with them, the farrer he goes he raiſes the Rate the higher. He promiſes on the firſt Orator's Head, <hi>Quod</hi> Luculenter <hi>oſtendet quam vitando ſit igna<g ref="char:EOLhyphen"/>via;</hi> but as if this <hi>Luculenter</hi> were but mean (although <hi>Buchanan</hi> thought it ſufficient for <hi>Knox</hi>'s Sermons, and <hi>Saluſt</hi> for <hi>Cicero</hi>'s Oration) he advances ſome higher with the next. And therefore to Complement one of his honourable Patrons, the Deacon of the Webſters, to whom he Dedicates this Peice; he aſſures him, That the ſecond Orator, <hi>Laudem artium Mechanicarum validis argumentis aſtruet, &amp; magnis tuebitur auctori<g ref="char:EOLhyphen"/>bus;</hi> and when we look into the Oration it ſelf, among his <hi>Magni Au<g ref="char:EOLhyphen"/>ctores</hi> is reckoned <hi>Muſculus,</hi> who (ſaith he) left the Webſter Trade, and applied himſelf to Divinity, as if this Example did not prove the con<g ref="char:EOLhyphen"/>trair of what he intended. if it prove any thing: But he needed not have gone beyond Sea for Examples, his own is beyond exception.</p>
+            <q>
+               <bibl>Juv.</bibl>
+               <l>Quem Pater ardentis maſſae fuligine lippus</l>
+               <l> A carbone, &amp; forcipibus, gladioſque parante</l>
+               <l>Incusde, &amp; luteo Vulcano ad Rhetora miſit.</l>
+               <l>Whom's Father black with ſmoak i'th' Smithy,</l>
+               <l>Sent from the Anvil and the Stithy,</l>
+               <l>Where he good <hi>Culroſs</hi> Girdles made,</l>
+               <l>To learn the Rhetorician Trade.</l>
+            </q>
+            <pb n="3" facs="tcp:48844:2"/>
+            <p>Here the Poet in the Original has drawn him as much to the Liſa as if he had been ſitting to his Picture, if he had not miſtaken <hi>Swords</hi> for <hi>Girdles,</hi> but the Tranſlation correcteth the Error. Nay ſo well skill'd is he in ſowing Point, and in all ſorts of Cookery (as he relates of <hi>A<g ref="char:EOLhyphen"/>chilles</hi>) yea even to <hi>Pottage making,</hi> that his own Wife was never trou<g ref="char:EOLhyphen"/>bled, or entruſted with it.</p>
+            <p>But the third Orator mounts yet a ſtep above his Fellows, and tells his Hearers, that he <hi>Majore Cothurno perſonabit refulgentes doctrinae laudes,</hi> and ſo his <hi>Cothurnus</hi> makes us fear a tragical <hi>Cataſtrophe,</hi> and ſo indeed it proves; for the tender Mothers pay ſeverely in the next Oration for their Indulgence. Well, it may be, he'l wiſh to have medled with others, when he medled with the Wives of <hi>Edinburgh,</hi> who are his only Support. This touring <hi>Climax</hi> of his, puts me in mind of the Trick of the old Wife, who to put off her Daughters, that lay long on hand, pretended the beſt was ay behind.</p>
+            <p>But to proceed, this <hi>Suadela victrix</hi> contains ſome <hi>Select</hi> Orations, but what the Author means by <hi>Select</hi> is not yet agreed on by Com<g ref="char:EOLhyphen"/>mentators; perhaps they're ſo called for their Dignity, becauſe they are choice and ſpecial ones; if this be the reaſon, the <hi>Epithet</hi> indeed is well choſen; for I dare ſay they can hardly be matched, but perhaps they're ſo called, becauſe they are choſen out from among many others if ſo, then I'm in a deadly fear we ſhall be plauged with the reſt of them;</p>
+            <q>
+               <bibl>Juv.</bibl>
+               <l>— Nam quis.</l>
+               <l>Peccandi finem fecit ſibi, quando recepit</l>
+               <l>Ejectum ſemel attrita de fronte pudorem?</l>
+               <l>For who to ſin yet more doth fear</l>
+               <l>When ſhame's once paſt the ſhade o's Hair.</l>
+            </q>
+            <p>Old <hi>Horace</hi> was not miſtaken in his Judgment of that Cattle, when he ſaid.</p>
+            <q>
+               <l>Quem ſemel arripuit tenet, occiditque legendo,</l>
+               <l>Nec miſſura cutem niſi plena cruoris hirudo.</l>
+               <l>Who once has got a trick of Scribling.</l>
+               <l>His ſtone-ſick pen will never leave dribling,</l>
+               <l>Till he his wretched Reader kill,</l>
+               <l>And like a Leech hath ſuckt his fill.</l>
+            </q>
+            <pb n="4" facs="tcp:48844:3"/>
+            <p>Yet I have heard ſome ſay, that as ill as theſe Orations are, they are not his own. Well! 'tis not the firſt Child has been wrong Fathered, and of the various ſorts of Cuckolds that are in the World, Mr. <hi>Blaw</hi> is of the happieſt ſort: For he is a contented one, and doteth wonder<g ref="char:EOLhyphen"/>fully upon other Mens Children. I know indeed certainly, that the Oration to be ſaid at the <hi>Cock-fighting</hi> is Mr. <hi>Cuninghame</hi>'s, but Mr. <hi>Cu<g ref="char:EOLhyphen"/>ninghame</hi> knew how to keep <hi>decorum</hi> better, than to do any thing for him ſo well, but that by it's Imperfections, it might reſemble the ſup<g ref="char:EOLhyphen"/>poſed Author: But for the moſt part of theſe Orations, I dare ſay, that they ſlander him, who alledge they are not his own. They carry his Mark as indelibly as his Wife, <hi>when branded by him with the hot Tongs.</hi> And yet as bad as they are, ſo fond is he of them, that, when he was re<g ref="char:EOLhyphen"/>proved for ſome Errors by Mr. — with a Huff he anſwer'd, <hi>What! a pack of</hi> Zoilus<hi>'s and</hi> Momus<hi>'s carp at other Mens Works, becauſe they can<g ref="char:EOLhyphen"/>not do the like themſelves.</hi> Indeed I hope Mr. — ſhall never be guilty of ſo much as a <hi>Motus primo-primus</hi> to that Sin. If this make an Author,
+<q>
+                  <l>Dii bene fecerunt, inopis me, quodque puſilli</l>
+                  <l>Finxerunt Animi—</l>
+                  <l>I bleſs my Stars, my Wit's but weak,</l>
+                  <l>Such as will ne'er an Author make.</l>
+               </q> And to another Gentleman, asking him how his School proſpered, <hi>What!</hi> (ſays he, with an Air peculiar to himſelf) <hi>no fear of my School, I think my Works have made me Famous.</hi> Now of all the Inventions that ever were, theſe of Gunning and Printing have been moſt pernicious to Man<g ref="char:EOLhyphen"/>kind. O! how much precious Paper hath been miſpent in Printing; which <hi>Selkirk</hi> or <hi>Thomſon</hi> could have moſt uſefully imploied about their Tobacco.</p>
+            <p>He makes uſe of a <hi>Prologue</hi> to his Orations, to give his Hearers an Account of what they are to expect: And the reaſon why he does ſo is thus, <hi>Ut qui lautum inſtruunt convivium, varia fercula, eorumque ſeriem animo priuſquam ſtomacho digerunt, ſimile quidpiam nos facere decrevimns.</hi> Is not this Alluſion pretty and argumentative? yea it exactly infers the contrary: For it is not the faſhion for theſe that make a Feaſt, to tell thoſe whom they have invited, what Meſſes they are to receive, or in what order: Only the Maſter of the Feaſt contrives them in his own
+<pb n="5" facs="tcp:48844:3"/>Mind. So the <hi>Animus</hi> cannot be <hi>Convivarum</hi> but <hi>Convivatoris,</hi> otherwiſe what he ſays is a Lie: So by this Alluſion neither ought he to tell his Hearers, what Orations they were to hear, and ſo the reſt of the <hi>Pro<g ref="char:EOLhyphen"/>logue</hi> would be impertinent and contradictory: But if ever he had made a Feaſt I would alledge, It had been his own Cuſtom to tell his Gueſts before hand what they were to expect: For that of the Poet ſeldom fails,
+<q>
+                  <bibl>Claud.</bibl>
+                  <l>— Similes agnoſcit pagina mores.</l>
+                  <l>— Lo here,</l>
+                  <l>The Author's Manners by his Works appear.</l>
+               </q>
+            </p>
+            <p>But being Jealous of the Auditor's ridicule, as he had good Reaſon, in the end of the Prologue, he endeavours to prevent it, by quoting a line of <hi>Horace.</hi>
+               <q>
+                  <l>Spectatum admiſſi riſum teneatis amici.</l>
+               </q>
+            </p>
+            <p>How luckily will even a Fool at a time, blunder on that which is moſt appoſite! Now had he rack't his Brains a thouſand Years, he could not have hit more happily, how true is the old Saying,
+<q>
+                  <l>Saepe etiam eſt olitor verba opportuna locutus,</l>
+                  <l>A Fool ſometimes may ſpeak what's fit</l>
+                  <l>As a blind Man a Dog may hit.</l>
+               </q>
+            </p>
+            <p>The whole work is e'en as like the Peice, that <hi>Horace</hi> draws before that line, as one Egg is like another, ſo Monſtrous, Unnatural, and Diſorderly are all the parts of it; and therefore nothing could be more fitly ſubjoyned; yet he has the forehead to commend them before <hi>Ovids Ajax</hi> for varying the Geſture of the Body, or tuning the Voice; where<g ref="char:EOLhyphen"/>as every one knows, that that Peice of <hi>Ovid</hi> for Humour and Paſſion, is the moſt exquiſite Peice of Rhetorick that can be found; and there<g ref="char:EOLhyphen"/>fore incomparably and infinitly fitter for that purpoſe, than theſe Ora<g ref="char:EOLhyphen"/>tions of his, the like of which for ill Latine, impertinent Authorities and wrong Verſe, I dare ſay never appeared in Print.</p>
+            <p>But the moſt unpardonable of all his Tranſgreſſions is, That he Murders the Verſes of good Poets: So in his Authorities to his Ora<g ref="char:EOLhyphen"/>tion on Diligence.</p>
+            <q>
+               <l>Tendimus in latium ſedes ubi fata quietas</l>
+               <l>Oſtendunt, atque ut omnia vincet amor.</l>
+            </q>
+            <p>In this laſt verſe he manifeſtly violats the quantity, and there are few of ſo good a reach as to Fathom the depth of the nonſenſe. In his
+<pb n="6" facs="tcp:48844:4"/>Oration in <hi>Laudem linguae Latinae,</hi> he has ſet down in an Italian Cha<g ref="char:EOLhyphen"/>racter, and in a line by it ſelf, that we may be ſure that it is a Verſe.</p>
+            <q>
+               <l>Dum idem limes orbis &amp; urbis erat,</l>
+            </q>
+            <p>Let any one meaſure it, and ſee if it be right. A little after in the ſame Oration, he has Marguillied another verſe of <hi>Virgil's</hi> at the ſame rate.
+<q>
+                  <l>Haec tantum alias intercaput extulit —</l>
+               </q> With the defect at the end, but none at the beginning, without which ſuppoſed, it cannot be meaſured. In his Title he promiſes to give Authorities at the end of every Oration, out of good Authors for con<g ref="char:EOLhyphen"/>firming the ſeveral points, and a Chorus relative to each ſubject, be<g ref="char:EOLhyphen"/>hold then; at the end of that, <hi>in Indulgentiam matrum</hi> one of his verſes out of good Authors. <hi>Bonos corrumpunt perverſa conſortia mores,</hi> What Poet ever made ſuch a verſe, is beyond my reading to know.
+<q>
+                  <l>Si puer hoc ſciret, quantum doctrina valeret</l>
+                  <l>Raro dormiret, nocteſque dieſque ſtuderet.</l>
+               </q>
+            </p>
+            <p>Theſe look as if they were out of ſome good Author, in his Chorus upon the Mechanick Arts, he begins with <hi>Aſclepiadiack</hi> Verſes, but try theſe that follow.
+<q>
+                  <l>Ignarum ſolum his obloquitur pecus</l>
+                  <l>Manent, his etenim commode vivitur.</l>
+                  <l>Gens, &amp; haſce colens divitiis cluas.</l>
+               </q> You ſee what Verſes they are, and for the Latine, conſult the Book where they are entirely ſet down, in the other Chorus's there is at leaſt an aim at Rhyme, but here is neither Rhyme nor Reaſon. In the Cho<g ref="char:EOLhyphen"/>rus to that Oration <hi>in Indulgentiam matrum, Qui puero dat arbitrium</hi> is made to fignifie <hi>to give a Child his Will,</hi> is not this brave Latine? But conſidet how pertinent the Chorus is, the Oration is in <hi>Indulgentiam ma<g ref="char:EOLhyphen"/>trum,</hi> but the Chorus is in <hi>Indulgentiam Patrum.</hi> It is <hi>Qui</hi> and not <hi>Quae puero dat arbitrium.</hi> Is not, <hi>Vina fere dulces oluerunt mane Camenae,</hi> a very good Authority againſt the Indulgence of Mothers? is not.
+<q>
+                  <l>Ingreſſus iter parat haec quae poſtulat uſus,</l>
+               </q> a good Verſe for the quantity? And yet this Author has perfected the Proſody (as he ſays) by his <hi>Index Poeticus.</hi> Now in two Pages full of Authorities upon the laſt Oration, there are not four to the purpoſe. Theſe adjoined to that in <hi>in laudem Linguae Latinae,</hi> are altogether im<g ref="char:EOLhyphen"/>pertinent,
+<pb n="7" facs="tcp:48844:4"/>not one of them on the Latine Tongue. Theſe adjoined to that in <hi>Laudem Doctrinae,</hi> are all, except two, in praiſe of moral Vertue, not a word of Learning, Nay and three parts of four of all theſe Authori<g ref="char:EOLhyphen"/>ties, are not either out of a Claſſick Author, or yet any later Author of any Fame. And then for his <hi>Chorus</hi> of Saphick Verſe of his own making, patcht out of <hi>Horace,</hi> it may be kept for a Standard of Non<g ref="char:EOLhyphen"/>ſenſe. Whom ſays the Chorus to,
+<q>
+                  <l>Docte ſermones utriuſque linguae?</l>
+               </q> It muſt be to the Maſter or no Body, and he indeed may be called <hi>docte ſer<g ref="char:EOLhyphen"/>mones,</hi> &amp;c. in the ſame ſenſe that the Boys underſtand <hi>doctus grammaticam:</hi> For one who has forgot what he has learned, in oppoſition to <hi>doctus gram<g ref="char:EOLhyphen"/>maticae:</hi> We have ſeen ſome of his <hi>Latine</hi> already, and for his <hi>Greek</hi> his Derivation of <hi>Alector, quod a lecto excitet</hi> in the <hi>Cock-oration,</hi> evi<g ref="char:EOLhyphen"/>dently ſhews his Skill: And yet as ſenſleſs as theſe Chorus's are, the Boys muſt get Ballads, the worſt and profaneſt poſſible, to learn to ſing the Chorus according to the Tune of them. <hi>Lillie-bur-lero</hi> he confeſſes to be helliſh Lines. <hi>The laſt time I came through the Moor, I left my Laſs behind me,</hi> is indeed a very modeſt one. <hi>As ſhe has guided me,</hi> is indeed a very godly Ballad, when the next Lines are, <hi>The De'il put on her Win<g ref="char:EOLhyphen"/>ding-ſheet the Night before ſhe die.</hi>
+            </p>
+            <p>But now I'm tyr'd with relating his impertinencies, I proteſt I could ſhew 200 more groſs errors, for which any diſcreet Schoolmaſter would Whip a Boy. He further threatens the publick with his <hi>practical deciſions againſt Tyranny,</hi> whereby (ſaith he) any good Subject may defend the preſent Government. Now God ha' Mercy on Mankind if <hi>Blaw</hi> turn Stateſman, a Fellow of ſo concocted a Malice, that he's able to poſſeſs the Devil, and of ſo refined a Hypocriſie, that he would outjugle a Je<g ref="char:EOLhyphen"/>ſuite. A thing ſo uncivilized and unpolitick that he was never yet in a Society, out of which he was not thruſt as inſociable with a note of Infamy, Witneſs the <hi>Weſt-Kirk</hi> and <hi>High-School</hi> of <hi>Edinburgh.</hi> One who could never yet agree with his own Wife, much leſs with others, but <hi>Sabina</hi> knows better things than to be ſo treated. But how comes he now to be a man of this Government, certainly it was not ſo in the days of old: We know whom he threatned to delate to the late Govern<g ref="char:EOLhyphen"/>ment for Non-conformity, and his practiſes about the <hi>Abbay</hi> in the
+<pb n="8" facs="tcp:48844:5"/>Eighty Eight are too notour to be denied. But the Anſwer is eaſie, <hi>Se<g ref="char:EOLhyphen"/>quitur fortunam ut ſemper, &amp; odit damnatos,</hi> he's as good Presbyterian, as the <hi>Teſt</hi> can make him. It is true he pretends to have vomit it up, but an eaſy tentation would make the Dog return to his vomit.</p>
+            <p>But to leave him, <hi>Fumi-vendulus</hi> the ordinar Anagram of his Name, is a full deſcription of the Man and his Works.</p>
+            <closer>
+               <salute>Sir </salute>
+               <signed>Your humble Servant.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="afterword">
+            <p>I have not taxed any Errors of the Preſs, although they be in equal number to the lines almoſt, though he himſelf was the Corrector.</p>
+            <p>If Mr. <hi>Blaw</hi> alledge, that the Verſes that are taxed, were not deſigned for Verſes, the ſtructure and order of the words ſhew the contrary, for never any wrote ſo in Proſe.</p>
+            <p>When his promiſed works are Publiſhed, I ſhall in another Letter give their Character, unleſs they be in better order, then I know them to be in his Papers.</p>
+            <pb facs="tcp:48844:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
